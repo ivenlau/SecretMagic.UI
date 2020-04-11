@@ -1,4 +1,4 @@
-# vueblogui
+# SecretMagic.UI
 
 ## Project setup
 ```
